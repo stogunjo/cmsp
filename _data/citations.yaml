@@ -38,7 +38,7 @@
   publisher: Elsevier BV
   date: '2026-01-01'
   link: https://doi.org/hcpvn8
-  orcid: 0000-0002-9819-1719
+  orcid: 0000-0002-2046-6305
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.54117/ijps.v2i2.18
@@ -145,7 +145,7 @@
   publisher: Journal of the Nigerian Society of Physical Sciences
   date: '2023-03-18'
   link: https://doi.org/g8n8z8
-  orcid: 0000-0002-9819-1719
+  orcid: 0000-0002-2046-6305
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.46481/asr.2023.2.1.82
@@ -175,7 +175,7 @@
   publisher: Ceylon Journal of Science
   date: '2023-03-01'
   link: https://doi.org/g8n82b
-  orcid: 0000-0002-9819-1719
+  orcid: 0000-0002-2046-6305
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.4028/p-s7wbe2
@@ -1991,6 +1991,449 @@
   date: '2023-01-01'
   link: https://doi.org/g9mwgm
   orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-025-96930-7
+  title: Surface structural probing and photoelectrochemical characterization of electrodeposited
+    MoS2 nanostructured thin film
+  authors:
+  - Yetunde A. Ajayeoba
+  - Saheed A. Adewinbi
+  - Olusola Akinrinola
+  - Olajide Ibukun-Olu Olusola
+  - Akinlolu Akande
+  - Ayodeji O. Awodugba
+  publisher: Scientific Reports
+  date: '2025-04-23'
+  link: https://doi.org/hcpvpc
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11581-025-06118-2
+  title: Sustainable coconut shell charcoal counter electrodes for efficiency enhancement
+    in CdS quantum dot solar cells
+  authors:
+  - M. A. K. L. Dissanayake
+  - A. K. Karunaratne
+  - G. K. R. Senadeera
+  - T. M. W. J. Bandara
+  - G. R. A. Kumara
+  - A. D. T. Medagedara
+  - J. M. K. W. Kumari
+  - I. Albinsson
+  - B.-E. Mellander
+  - M. Furlani
+  - N. B. Chaure
+  - O. I. Olusola
+  publisher: Ionics
+  date: '2025-02-05'
+  link: https://doi.org/g86k9f
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-4697949/v1
+  title: 'Electrodeposited MoS2 nanostructured thin film: surface structural probing
+    and photoelectrochemical characterization'
+  authors:
+  - Yetunde A. Ajayeoba
+  - Saheed A. Adewinbi
+  - Olusola Akinrinola
+  - Olajide Ibukun-Olu Olusola
+  - Akinlolu Akande
+  - Ayodeji O. Awodugba
+  publisher: Springer Science and Business Media LLC
+  date: '2024-08-02'
+  link: https://doi.org/hcpvpd
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11664-024-10931-2
+  title: Highly Crystalline and Stoichiometric Growth of CdTe by Cost-Effective Hydrothermal
+    Technique
+  authors:
+  - Maruti V. Salve
+  - Aparna S. Ukarande
+  - O. I. Olusola
+  - T. M. W. J. Bandara
+  - M. Furlani
+  - B.-E. Mellander
+  - M. A. K. L. Dissanayake
+  - I. Albinsson
+  - Nandu B. Chaure
+  publisher: Journal of Electronic Materials
+  date: '2024-02-02'
+  link: https://doi.org/gthtbj
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10854-023-11252-6
+  title: Efficiency enhancement and chrono-photoelectron generation in dye-sensitized
+    solar cells based on spin-coated TiO2 nanoparticle multilayer photoanodes and
+    a ternary iodide gel polymer electrolyte
+  authors:
+  - T. M. W. J. Bandara
+  - S. M. S. Gunathilake
+  - G. B. M. M. M. Nishshanke
+  - M. A. K. L. Dissanayake
+  - N. B. Chaure
+  - O. I. Olusola
+  - B.-E. Mellander
+  - M. Furlani
+  - Ingvar Albinsson
+  publisher: 'Journal of Materials Science: Materials in Electronics'
+  date: '2023-10-01'
+  link: https://doi.org/gs9zh8
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12034-023-02919-1
+  title: High-efficiency dye-sensitized solar cells fabricated with electrospun PVdF-HFP
+    polymer nanofibre-based gel electrolytes
+  authors:
+  - M A K L Dissanayake
+  - M S H Hettiarachchi
+  - G K R Senadeera
+  - J M K W Kumari
+  - K Umair
+  - T M W J Bandara
+  - I Albinsson
+  - M Furlani
+  - B-E Mellander
+  - N B Chaure
+  - O I Olusola
+  publisher: Bulletin of Materials Science
+  date: '2023-04-20'
+  link: https://doi.org/gr7t42
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10854-023-11337-2
+  title: Investigation of electrodeposited CdTe thin films for solar cell development
+  authors:
+  - Aparna Ukarande
+  - Maruti V. Salve
+  - Shweta Chaure
+  - O. I. Olusola
+  - T. M. W. J. Bandara
+  - M. Furlani
+  - B.-E. Mellander
+  - M. A. K. L. Dissanayake
+  - I. Albinsson
+  - Nandu B. Chaure
+  publisher: 'Journal of Materials Science: Materials in Electronics'
+  date: '2023-09-01'
+  link: https://doi.org/gszwq3
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.46481/jnsps.2021.267
+  title: Influence of Silicon Nanoparticle on the Electrical Properties of Heterostructured
+    CdTe/CdS thin films based Photovoltaic Device
+  authors:
+  - A. A. Faremi
+  - S. S. Oluyamo
+  - K. D. Adedayo
+  - Y. A. Odusote
+  - O. I. Olusola
+  publisher: Journal of the Nigerian Society of Physical Sciences
+  date: '2021-08-29'
+  link: https://doi.org/hcpvpf
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mssp.2020.105494
+  title: Opto-electronic properties of electrodeposited ZnTe using zinc anode as counter
+    electrode
+  authors:
+  - O.I. Olusola
+  - S.S. Oluyamo
+  - O.A. Ajayi
+  publisher: Materials Science in Semiconductor Processing
+  date: '2021-03-01'
+  link: https://doi.org/hcpvpg
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.matpr.2020.02.962
+  title: Tunability of conductivity type and energy band gap of CdTe thin film in
+    the electrodeposition technique
+  authors:
+  - Sunday Samuel Oluyamo
+  - Abass Akande Faremi
+  - Olajide Ibukun-Olu Olusola
+  - Yisau Adelaja Odusote
+  publisher: 'Materials Today: Proceedings'
+  date: '2021-01-01'
+  link: https://doi.org/hcpvph
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10854-020-04717-5
+  title: Development of CdMnTe thin films using electroplating technique for opto-electronic
+    device applications
+  authors:
+  - O. I. Olusola
+  - M. L. Madugu
+  - A. A. Ojo
+  - I. M. Dharmadasa
+  publisher: 'Journal of Materials Science: Materials in Electronics'
+  date: '2020-11-02'
+  link: https://doi.org/hcpvpj
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-020-78066-y
+  title: Electrodeposition of ternary compounds for novel PV application and optimisation
+    of electrodeposited CdMnTe thin-films
+  authors:
+  - A. E. Alam
+  - O. I. Olusola
+  - D. A. L. Loch
+  - K. Shukla
+  - W. M. Cranton
+  - I. M. Dharmadasa
+  publisher: Scientific Reports
+  date: '2020-12-08'
+  link: https://doi.org/hcpvpk
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10570-020-03345-w
+  title: Influence of nanocellulose concentration on the tunability of energy bandgap
+    of cadmium telluride thin films
+  authors:
+  - Sunday Samuel Oluyamo
+  - Lawrence Olakunle Akinboyewa
+  - Ibiyinka Agboola Fuwape
+  - Olajide Ibukun-Olu Olusola
+  - Mathew Adefusika Adekoya
+  publisher: Cellulose
+  date: '2020-07-16'
+  link: https://doi.org/hcpvpm
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.14233/ajchem.2018.21079
+  title: 'Zinc Telluride Thin Films: A Review'
+  authors:
+  - S.M. Ho
+  - O.I. Olusola
+  - D.C. Sharma
+  - W. Mahmood
+  publisher: Asian Journal of Chemistry
+  date: '2018-01-01'
+  link: https://doi.org/hcpvpn
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10854-016-5916-0
+  title: 'Effect of thickness: a case study of electrodeposited CdS in CdS/CdTe based
+    photovoltaic devices'
+  authors:
+  - A. A. Ojo
+  - H. I. Salim
+  - O. I. Olusola
+  - M. L. Madugu
+  - I. M. Dharmadasa
+  publisher: 'Journal of Materials Science: Materials in Electronics'
+  date: '2016-10-25'
+  link: https://doi.org/hcpvpp
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/coatings7020017
+  title: Electroplating of CdTe Thin Films from Cadmium Sulphate Precursor and Comparison
+    of Layers Grown by 3-Electrode and 2-Electrode Systems
+  authors:
+  - Imyhamy Dharmadasa
+  - Mohammad Madugu
+  - Olajide Olusola
+  - Obi Echendu
+  - Fijay Fauzi
+  - Dahiru Diso
+  - Ajith Weerasinghe
+  - Thad Druffel
+  - Ruvini Dharmadasa
+  - Brandon Lavery
+  - Jacek Jasinski
+  - Tatiana Krentsel
+  - Gamini Sumanasekera
+  publisher: Coatings
+  date: '2017-01-24'
+  link: https://doi.org/f9t6w9
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10854-016-5802-9
+  title: Improvement of composition of CdTe thin films during heat treatment in the
+    presence of CdCl2
+  authors:
+  - I. M. Dharmadasa
+  - O. K. Echendu
+  - F. Fauzi
+  - N. A. Abdul-Manaf
+  - O. I. Olusola
+  - H. I. Salim
+  - M. L. Madugu
+  - A. A. Ojo
+  publisher: 'Journal of Materials Science: Materials in Electronics'
+  date: '2016-10-11'
+  link: https://doi.org/g845tj
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cap.2016.11.027
+  title: Investigating the effect of GaCl3 incorporation into the usual CdCl2 treatment
+    on CdTe-based solar cell device structures
+  authors:
+  - O.I. Olusola
+  - M.L. Madugu
+  - A.A. Ojo
+  - I.M. Dharmadasa
+  publisher: Current Applied Physics
+  date: '2017-02-01'
+  link: https://doi.org/gq6cj9
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.matchemphys.2017.01.027
+  title: Investigating the electronic properties of multi-junction ZnS/CdS/CdTe graded
+    bandgap solar cells
+  authors:
+  - O.I. Olusola
+  - M.L. Madugu
+  - I.M. Dharmadasa
+  publisher: Materials Chemistry and Physics
+  date: '2017-04-01'
+  link: https://doi.org/hcpvpq
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10854-017-7808-3
+  title: Necessity and relevance of precipitate free clear electrolytes for electrodeposition
+    of CdS semiconductor materials with enhanced photovoltaic properties
+  authors:
+  - H. Y. R. Atapattu
+  - D. S. M. De Silva
+  - K. A. S. Pathiratne
+  - O. I. Olusola
+  - I. M. Dharmadasa
+  publisher: 'Journal of Materials Science: Materials in Electronics'
+  date: '2017-09-05'
+  link: https://doi.org/hcpvpr
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10854-016-4629-8
+  title: Electrodeposition and characterisation of CdS thin films using thiourea precursor
+    for application in solar cells
+  authors:
+  - H. I. Salim
+  - O. I. Olusola
+  - A. A. Ojo
+  - K. A. Urasov
+  - M. B. Dergacheva
+  - I. M. Dharmadasa
+  publisher: 'Journal of Materials Science: Materials in Electronics'
+  date: '2016-03-07'
+  link: https://doi.org/hcpvps
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cap.2015.11.008
+  title: Growth and characterisation of n- and p-type ZnTe thin films for applications
+    in electronic devices
+  authors:
+  - O.I. Olusola
+  - M.L. Madugu
+  - N.A. Abdul-Manaf
+  - I.M. Dharmadasa
+  publisher: Current Applied Physics
+  date: '2016-02-01'
+  link: https://doi.org/gt4323
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11664-015-4310-7
+  title: Intrinsic Doping in Electrodeposited ZnS Thin Films for Application in Large-Area
+    Optoelectronic Devices
+  authors:
+  - Mohammad Lamido Madugu
+  - Olajide Ibukun-Olu Olusola
+  - Obi Kingsley Echendu
+  - Burak Kadem
+  - Imyhamy Mudiy Dharmadasa
+  publisher: Journal of Electronic Materials
+  date: '2016-01-05'
+  link: https://doi.org/hcpvpt
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/2053-1591/3/9/095904
+  title: "One-sided rectifying p\u2013n junction diodes fabricated from n-CdS and\
+    \ p-ZnTe:Te semiconductors"
+  authors:
+  - O I Olusola
+  - H I Salim
+  - I M Dharmadasa
+  publisher: Materials Research Express
+  date: '2016-09-16'
+  link: https://doi.org/hcpvpv
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10854-016-4844-3
+  title: Optimisation of CdTe electrodeposition voltage for development of CdS/CdTe
+    solar cells
+  authors:
+  - D. G. Diso
+  - F. Fauzi
+  - O. K. Echendu
+  - O. I. Olusola
+  - I. M. Dharmadasa
+  publisher: 'Journal of Materials Science: Materials in Electronics'
+  date: '2016-05-06'
+  link: https://doi.org/hcpvpw
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10854-014-2506-x
+  title: Development of CdSe thin films for application in electronic devices
+  authors:
+  - O. I. Olusola
+  - O. K. Echendu
+  - I. M. Dharmadasa
+  publisher: 'Journal of Materials Science: Materials in Electronics'
+  date: '2014-11-16'
+  link: https://doi.org/g845s3
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/en81010883
+  title: Electro-Plating and Characterisation of CdTe Thin Films Using CdCl2 as the
+    Cadmium Source
+  authors:
+  - Nor Abdul-Manaf
+  - Hussein Salim
+  - Mohammad Madugu
+  - Olajide Olusola
+  - Imyhamy Dharmadasa
+  publisher: Energies
+  date: '2015-09-29'
+  link: https://doi.org/f7xtb3
+  orcid: 0000-0002-2046-6305
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/14328917.2015.1105570
+  title: Growth of n- and p-type ZnTe semiconductors by intrinsic doping
+  authors:
+  - Olajide Ibukun-Olu Olusola
+  - Mohammad Lamido Madugu
+  - Imyhamy Mudiy Dharmadasa
+  publisher: Materials Research Innovations
+  date: '2015-11-10'
+  link: https://doi.org/hcpvpx
+  orcid: 0000-0002-2046-6305
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
