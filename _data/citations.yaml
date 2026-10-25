@@ -27,6 +27,20 @@
   orcid: 0000-0002-9819-1719
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.2139/ssrn.7655823
+  title: Thermoluminescence and Kinetic Parameters of a Synthesized Copper-doped LTB
+    Phosphor using High Temperature Solid State Technique
+  authors:
+  - Ayodele A. E
+  - A.M. Arogunjo
+  - Sunday Samuel OLUYAMO
+  - Olajide Ibunkun Olu Olusola
+  publisher: Elsevier BV
+  date: '2026-01-01'
+  link: https://doi.org/hcpvn8
+  orcid: 0000-0002-9819-1719
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.54117/ijps.v2i2.18
   title: Comparative Study of the Device Parameters of Schottky Barrier Solar Cells
     and Homo-Heterojunction Solar Cells
